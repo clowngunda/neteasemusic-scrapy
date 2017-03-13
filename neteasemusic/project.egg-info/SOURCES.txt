@@ -1,0 +1,16 @@
+setup.py
+neteasemusic/__init__.py
+neteasemusic/items.py
+neteasemusic/main.py
+neteasemusic/middlewares.py
+neteasemusic/mysql_pipelines.py
+neteasemusic/pipelines.py
+neteasemusic/redis_pipelines.py
+neteasemusic/settings.py
+neteasemusic/spiders/__init__.py
+neteasemusic/spiders/pb.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

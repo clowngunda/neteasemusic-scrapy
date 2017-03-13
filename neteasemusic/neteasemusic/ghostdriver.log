@@ -1,0 +1,27 @@
+[INFO  - 2017-03-07T13:26:52.809Z] GhostDriver - Main - running on port 11941
+[INFO  - 2017-03-07T13:26:56.196Z] Session [bc193fc0-0339-11e7-ad35-cdc9dabe390d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-03-07T13:26:56.196Z] Session [bc193fc0-0339-11e7-ad35-cdc9dabe390d] - page.customHeaders:  - {}
+[INFO  - 2017-03-07T13:26:56.196Z] Session [bc193fc0-0339-11e7-ad35-cdc9dabe390d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-8.1-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-03-07T13:26:56.196Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: bc193fc0-0339-11e7-ad35-cdc9dabe390d
+[ERROR - 2017-03-07T13:27:37.191Z] Session [bc193fc0-0339-11e7-ad35-cdc9dabe390d] - page.onError - msg: TypeError: undefined is not an object (evaluating 'Uw.addCallback')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-03-07T13:27:37.191Z] Session [bc193fc0-0339-11e7-ad35-cdc9dabe390d] - page.onError - stack:
+  (anonymous function) (http://s3.music.126.net/sep/s/2/core.js?628acf341e4052b9e54787e882dbcef8:127)
+  forEach (:0)
+  cv (http://s3.music.126.net/sep/s/2/core.js?628acf341e4052b9e54787e882dbcef8:17)
+  (anonymous function) (http://s3.music.126.net/sep/s/2/core.js?628acf341e4052b9e54787e882dbcef8:127)
+  (anonymous function) (http://s3.music.126.net/sep/s/2/core.js?628acf341e4052b9e54787e882dbcef8:1)
+  KE (http://s3.music.126.net/sep/s/2/core.js?628acf341e4052b9e54787e882dbcef8:25)
+  (anonymous function) (http://s3.music.126.net/sep/s/2/core.js?628acf341e4052b9e54787e882dbcef8:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-03-07T13:31:52.810Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-07T13:36:52.809Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-07T13:41:52.810Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-07T13:46:52.810Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-07T13:51:52.817Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-07T13:52:54.232Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+INFO  - 2017-03-07T13:50:43.047Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-07T13:49:25.950Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-07T13:52:56.019Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
